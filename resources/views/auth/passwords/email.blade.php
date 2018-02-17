@@ -1,3 +1,4 @@
+
 @extends('la.layouts.auth')
 
 @section('htmlheader_title')

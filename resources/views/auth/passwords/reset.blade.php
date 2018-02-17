@@ -1,3 +1,4 @@
+
 @extends('la.layouts.auth')
 
 @section('htmlheader_title')
@@ -79,5 +80,4 @@
         });
     </script>
     </body>
-
 @endsection
